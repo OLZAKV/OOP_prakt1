@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\bin\Debug\Task2.exe.config
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\bin\Debug\Task2.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\bin\Debug\Task2.pdb
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\obj\Debug\Task2.exe
+C:\Users\alex\Documents\GitHub\OOP_prakt1\OOP_prakt1\Task2\obj\Debug\Task2.pdb
